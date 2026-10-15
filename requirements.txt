@@ -1,0 +1,11 @@
+flask
+requests
+pywebview
+SpeechRecognition
+PyAudio
+pyttsx3
+Pillow
+pytesseract
+psutil
+# Optional local GGUF runtime (install a compatible wheel for your CPU/GPU):
+# llama-cpp-python

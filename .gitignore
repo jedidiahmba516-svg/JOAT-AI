@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+
+# Personal memory and conversation data
+memory.json
+conversation_history.json
+context_state.json
+goals.json
+user_profile.json
+
+# Local AI models
+*.gguf
+*.safetensors
+*.bin
+
+# Build output and temporary files
+build/
+dist/
+__pycache__/
+*.spec.bak
+*.log
+*.tmp
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/

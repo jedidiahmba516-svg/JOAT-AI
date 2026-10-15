@@ -1,0 +1,7 @@
+J.O.A.T. — LICENSE
+
+Copyright (c) 2026 Jedidiah
+
+This project is distributed by its author. Unless a separate license file or third-party notice says otherwise, copying, redistribution, modification, or commercial distribution requires permission from the author.
+
+Third-party packages remain under their respective licenses. See THIRD_PARTY_NOTICES.md.

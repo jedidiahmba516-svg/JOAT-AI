@@ -1,0 +1,17 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(1,0,0,0), prodvers=(1,0,0,0), mask=0x3f, flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
+  kids=[
+    StringFileInfo([StringTable('040904B0',[
+      StringStruct('CompanyName','J.O.A.T. Project'),
+      StringStruct('FileDescription','J.O.A.T. — Jack Of All Trades'),
+      StringStruct('FileVersion','1.0.0.0'),
+      StringStruct('InternalName','JOAT.exe'),
+      StringStruct('OriginalFilename','JOAT.exe'),
+      StringStruct('ProductName','J.O.A.T.'),
+      StringStruct('ProductVersion','1.0.0.0'),
+      StringStruct('Comments','J.O.A.T. Beta 1 — Local-first desktop AI assistant'),
+      StringStruct('LegalCopyright','Copyright (c) 2026 Jedidiah')
+    ])]),
+    VarFileInfo([VarStruct('Translation',[1033,1200])])
+  ]
+)
